@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sneaker Resell Store - Home</title>
+</head>
+<body>
+    <!-- Navigation -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="products.html">Products/Services</a></li>
+                <li><a href="enquiry.html">Enquiry</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <main>
+        <section>
+            <h1>Welcome to Sneaker Resell Store</h1>
+            <p>Buy and sell sneakers easily with our trusted resell platform.</p>
+            <button>Sell Your Sneakers</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Sneaker Resell Store</p>
+    </footer>
+</body>
+</html>
