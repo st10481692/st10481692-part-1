@@ -4,13 +4,13 @@ This project is a basic multi-page website for a local sneaker resell store. The
 The website is designed with HTML only (no CSS or JavaScript yet) to demonstrate the structure and navigation flow between pages.
 File Structure
 SneakerResellStore/
-│
-├── index.html       # Homepage - intro, hero section, call to action
-├── about.html       # About Us - store mission, history, team
-├── products.html    # Products & Services - sneakers and selling services
-├── enquiry.html     # Enquiry - form to enquire about selling/buying
-├── contact.html     # Contact page - info, locations, contact form
-└── assets/          # (optional) for images, CSS, or JS in future
+
+ index.html       # Homepage - intro, hero section, call to action
+ about.html       # About Us - store mission, history, team
+ products.html    # Products & Services - sneakers and selling services
+ enquiry.html     # Enquiry - form to enquire about selling/buying
+ contact.html     # Contact page - info, locations, contact form
+ assets/          # (optional) for images, CSS, or JS in future
 Website Pages
 Homepage (index.html)
 Hero section with welcome message and call to action
